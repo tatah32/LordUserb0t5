@@ -107,7 +107,7 @@ let antitrol = true
 
 let hit_today = []
 let blocked = []
-let limitawal = "100" 
+let limitawal = "10000" 
 let namabot = setting.botname
 let owner_name = setting.ownername
 let owner_number = setting.ownerNumber
@@ -124,7 +124,7 @@ let multiprefix = true
 let nopref = false
 let autovn = false
 let ngetik = false
-let menusimple = false
+let menusimple = true
 let Mloc = false
 let autoregister = setting.user_register
 let autorespon = setting.autorespon
@@ -444,7 +444,7 @@ var waktoo = date.getHours();
 					limit: 'Limit kamu habis lord , Silahkan beli dengan #buylimit <nominal> atau minta gift dari user lain',
 					sewabot: ` 「 *SEWA BOT* 」 \n\nBerikut list sewa bot kami
 
-•> 25k / BULAN (PREMIUM)
+•> Tidak Tersedia / BULAN (PREMIUM)
 Isi sendiri
 
 Minat? Pm wa.me/${owner_number}`,
